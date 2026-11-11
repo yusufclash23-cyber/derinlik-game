@@ -1,0 +1,7 @@
+{
+  "appId": "com.derinlik.game",
+  "appName": "DERİNLİK",
+  "webDir": "out",
+  "backgroundColor": "#0a0c18",
+  "android": { "allowMixedContent": false }
+}
